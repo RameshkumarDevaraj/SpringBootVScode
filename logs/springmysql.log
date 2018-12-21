@@ -1,0 +1,40 @@
+"*[DEBUG]-- Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]--
+""*[INFO ]-- Root WebApplicationContext: initialization completed in 7103 ms--
+""*[DEBUG]-- Patterns [/**/favicon.ico] in 'faviconHandlerMapping'--
+""*[DEBUG]-- ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice--
+""*[WARN ]-- spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning--
+""*[DEBUG]-- 6 mappings in 'requestMappingHandlerMapping'--
+""*[DEBUG]-- Patterns [/webjars/**, /**] in 'resourceHandlerMapping'--
+""*[DEBUG]-- ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice--
+""*[DEBUG]-- Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]--
+""*[INFO ]-- Root WebApplicationContext: initialization completed in 22122 ms--
+""*[DEBUG]-- Patterns [/**/favicon.ico] in 'faviconHandlerMapping'--
+""*[DEBUG]-- ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice--
+""*[WARN ]-- spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning--
+""*[DEBUG]-- 6 mappings in 'requestMappingHandlerMapping'--
+""*[DEBUG]-- Patterns [/webjars/**, /**] in 'resourceHandlerMapping'--
+""*[DEBUG]-- ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice--
+""*[INFO ]-- Initializing Servlet 'dispatcherServlet'--
+""*[DEBUG]-- Detected StandardServletMultipartResolver--
+""*[DEBUG]-- enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data--
+""*[INFO ]-- Completed initialization in 114 ms--
+""*[DEBUG]-- GET "/", parameters={}--
+""*[DEBUG]-- Selected 'text/html' given [text/html, application/xhtml+xml, image/webp, image/apng, application/xml;q=0.9, */*;q=0.8]--
+""*[DEBUG]-- View [InternalResourceView], model {}--
+""*[DEBUG]-- Forwarding to [index.html]--
+""*[DEBUG]-- "FORWARD" dispatch for GET "/index.html", parameters={}--
+""*[DEBUG]-- Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]--
+""*[DEBUG]-- Exiting from "FORWARD" dispatch, status 200--
+""*[DEBUG]-- Completed 200 OK--
+""*[DEBUG]-- GET "/favicon.ico", parameters={}--
+""*[DEBUG]-- Mapped to ResourceHttpRequestHandler [class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/], class path resource []]--
+""*[DEBUG]-- Completed 200 OK--
+""*[DEBUG]-- Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]--
+""*[INFO ]-- Root WebApplicationContext: initialization completed in 8855 ms--
+""*[DEBUG]-- Patterns [/**/favicon.ico] in 'faviconHandlerMapping'--
+""*[DEBUG]-- ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice--
+""*[WARN ]-- spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning--
+""*[DEBUG]-- 6 mappings in 'requestMappingHandlerMapping'--
+""*[DEBUG]-- Patterns [/webjars/**, /**] in 'resourceHandlerMapping'--
+""*[DEBUG]-- ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice--
+"
